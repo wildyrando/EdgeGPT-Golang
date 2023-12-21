@@ -1,0 +1,2 @@
+204.79.197.237 sydney.bing.com
+204.79.197.200 edgeservices.bing.com
